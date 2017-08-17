@@ -104,6 +104,11 @@
         <td align="center">Github 교육 1회차 운영(튜토리얼)</td>
         <td> </td>
     </tr>
+    <tr>
+      <td align="center">14:00~14:01 (1m)</td>
+      <td align="center">개막식 개회 선언</td>
+      <td align="center">사회자</td>
+    </tr>	    
     
 
 </table>
