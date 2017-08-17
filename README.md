@@ -105,11 +105,11 @@
         <td> </td>
     </tr>
     <tr>
-        <th align="center" rowspan="13">9/24 개막식</th>
-        <td align="center">13:30~14:00 (30m)</td>
-        <td align="center">등록(SW개발자 또는 일반인)</td>
-        <td> </td>
-    </tr>    
+      <th align="center" rowspan="2">9/24~9/30 프로젝트 활동</th>
+      <td align="center"></td>
+      <td align="center">프로젝트 별 작업진행, 질의응답</td>
+      <td align="center">사무국</td>
+    </tr>
     
 
 </table>
