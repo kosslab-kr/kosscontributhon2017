@@ -103,7 +103,14 @@
       <td align="center"></td>
       <td align="center">Github교육 1회차 운영(듀토리얼)</td>
       <td align="center">사무국</td>
-    </tr>	    
+    </tr>
+    <tr>
+      <th align="center" rowspan="10">00/00~00/00 참가자사전오리엔테이션</th>
+      <td align="center"></td>
+      <td align="center">Github교육 1회차 운영(듀토리얼)</td>
+      <td align="center">사무국</td>
+    </tr>
+	    
     <tr>
       <td align="center">	14:01~14:06 (5m)</td>
       <td align="center">인사말</td>
