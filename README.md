@@ -99,16 +99,12 @@
     </thead>
     <tbody>
      <tr>
-        <th align="center" rowspan="5">9/24 개막식</th>
-        <td align="center">13:30~14:00 (30m)</td>
+        <th align="center" rowspan="3">00/00 개막식</th>
+        <td align="center">00:00~00:00 (30m)</td>
         <td align="center">등록(SW개발자 또는 일반인)</td>
         <td> </td>
     </tr>
-    <tr>
-      <td align="center">14:00~14:01 (1m)</td>
-      <td align="center">개막식 개회 선언</td>
-      <td align="center">사회자</td>
-    </tr>
+    
 
 </table>
 
