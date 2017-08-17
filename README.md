@@ -122,12 +122,20 @@
       <td align="center">멘토</td>
     </tr>
     <tr>
-      <th align="center" rowspan="2"> oo/oo~o/oo 프로젝트 활동</th>
-      <td align="center"></td>
+      <th align="center" rowspan="6"> oo/oo~o/oo 프로젝트 활동</th>
       <td align="center">멘토 중심의 프로젝트 운영 및 멘토링 진행</td>
+      <td align="center"></td>
+    </tr>    
+    <tr>
+      <td align="center">
       <td align="center">Github 해카톤 프로젝트 일일 활동 내용 기록</td>
-      <td align="center">모임공간 지원을 통한 오프라인 활동 지원</td>
+      <td align="center"></td>
     </tr>
+    <tr>
+      <td align="center">          
+      <td align="center">모임공간 지원을 통한 오프라인 활동 지원</td>
+      <td align="center"></td>
+    </tr>    
     <tr>
       <th align="center" colspan="4">활동 마감 (oo/oo, 24:00)</th>
     </tr>
