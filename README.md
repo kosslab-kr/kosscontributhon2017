@@ -109,7 +109,7 @@
       <td align="center"></td>
       <td align="center">프로젝트 별 작업진행, 질의응답</td>
       <td align="center">사무국</td>
-    </tr>
+   </tr>
 
 </table>
 
