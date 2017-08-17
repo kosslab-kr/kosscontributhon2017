@@ -99,7 +99,7 @@
     </thead>
     <tbody>
     <tr>
-      <th align="center" rowspan="3">00/00~00/00 참가자사전오리엔테이션</th>
+      <th align="center" rowspan="10">00/00~00/00 참가자사전오리엔테이션</th>
       <td align="center"></td>
       <td align="center">Github, 질의응답</td>
       <td align="center">사무국</td>
