@@ -1,7 +1,7 @@
-# 2016 KOSS Hackathon (2016 공개SW 해카톤)
+# 2017 KOSS Hackathon (2017 공개SW 해카톤)
 
 	오픈소스 누구나 할 수 있다!
-	2016 공개SW 해카톤! (2016 KOSS Hackathon)
+	2017 공개SW 해카톤! (2017 KOSS Hackathon)
 	공개SW 고급개발자인 멘토와 함께 1주일간 공개SW 프로젝트 기여활동에 직접 참여하는 경험을 해보는 행사입니다.
 	말로만 듣던 오픈소스! 이제 직접 참여해보세요!
 
@@ -10,88 +10,75 @@
 * 공개SW의 개발동기 제고 및 활용 확산
 
 ### 행사 일정
-* 2016년 9월 24일(토) 14:00 ~ 10월 1일(토) 16:20
+* 2017년 00월 00일(?) 00:00 ~ 00월 00일(?) 00:00
 
 ### 참가대상
 * SW개발과 공개SW에 관심이 있는 대학(원)생, 일반인 누구나
 * 공개SW 프로젝트에 직접 참여할 기회를 갖고 싶은 개발자
 
 ### 장소
-* D-Camp(9/24), KossLab(10/1)
+* 미지정(00/00), 미지정(00/00)
 
 ### 주최 & 주관
 * 미래창조과학부 & 정보통신산업진흥원, 한국IT비즈니스진흥협회, 공개SW개발자Lab
 
 ### 프로젝트 소개
-1. NPM Module Boilerplate 및 Instagram Module (멘토 강명구)
-	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/01_Instagram/README.md)
-	- [Repository](https://github.com/JeffGuKang/npm-module-es2015-boilerplate)
-	- [Repository](https://github.com/Instaparser/instaparser.js)
+1. 내용입력 (멘토 OOO)
+	- [활동 내용](https:// ....................................................)
+	- [Repository](https://....................................................)
+	- [Repository](https://....................................................)
 
-2. Titanium Boiler Plate Templete (멘토 김동우)
-	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/02_Titanium_Boiler_Plate_Template/2016-09-24.md)
-	- [Repository](https://github.com/appcelerator/titanium_mobile)
+2. 내용입력 (멘토 OOO)
+	- [활동 내용](https://....................................................)
+	- [Repository](https://....................................................)
 
-3. IoT Labs (멘토 김종광)
-	- [활동 내용 - Day 1](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/03_IoT_Labs/2016-09-24.md)
-	- [활동 내용 - Day 2](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/03_IoT_Labs/2016-09-25.md)
-	- [활동 내용 - Day 3](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/03_IoT_Labs/2016-09-26.md)
-	- [활동 내용 - Day 4](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/03_IoT_Labs/2016-09-27.md)
-	- [활동 내용 - Day 5](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/03_IoT_Labs/2016-09-28.md)
-	- [활동 내용 - Day 6](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/03_IoT_Labs/2016-09-29.md)
-	- [활동 내용 - Day 7](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/03_IoT_Labs/2016-09-30.md)
-	- [Repository](https://github.com/jongkwang/IoTLabs)
+3. 내용입력 (멘토 OOO)
+	- [활동 내용 - Day 1](https://....................................................)
+	- [Repository](https://....................................................)
 
-4. Chromium/Blink (멘토 방진호)
-	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/04_Chromium_Blink/README.md)
-	- [Repository](https://chromium.googlesource.com/chromium/src.git)
+4. 내용입력 (멘토 OOO)
+	- [활동 내용](https://....................................................)
+	- [Repository](https://....................................................)
 
-5. Perf(Linux) (멘토 송태웅)
-	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/05_Perf_Linux/2016-09-24.md)
-	- [Repository](https://git.kernel.org/cgit/linux/kernel/git/tip/tip.git)
+5. 내용입력 (멘토 OOO)
+	- [활동 내용](https://....................................................)
+	- [Repository](https://....................................................)
 
-6. Toybox (멘토 이창환)
-	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/06_Toybox/README.md)
-	- [Repository](https://github.com/kosslab-kr/toybox.git)
+6. 내용입력 (멘토 OOO)
+	- [활동 내용](https://....................................................)
+	- [Repository](https://....................................................)
 
-7. AX5UI (멘토 장기영)
-	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/07_AX5UI/README.md)
-	- [Repository](https://github.com/ax5ui)
+7. 내용입력 (멘토 OOO)
+	- [활동 내용](https://....................................................)
+	- [Repository](https://....................................................)
 
-8. 블리티터 (멘토 주영택)
-	- [활동 내용 Day 1](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-24.md)
-	- [활동 내용 Day 2](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-25.md)
-	- [활동 내용 Day 3](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-26.md)
-	- [활동 내용 Day 4](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-27.md)
-	- [활동 내용 Day 5](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-28.md)
-	- [활동 내용 Day 6](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-29.md)
-	- [활동 내용 Day 7](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/08_blititor/2016-09-30.md)
-	- [Repository](https://github.com/soomtong/blititor)
+8. 내용입력 (멘토 OOO)
+	- [활동 내용](https://....................................................)
+	- [Repository](https://....................................................)
 
-9. Say (멘토 정윤원)
-	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/09_Say/README.md)
-	- [Repository](https://github.com/youknowone/Say)
+9. 내용입력 (멘토 OOO)
+	- [활동 내용](https://....................................................)
+	- [Repository](https://....................................................)
 
-10. Rust (멘토 서상현)
-	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/10_Rust/README.md)
-	- [Repository](https://github.com/rust-lang/rust)
+10. 내용입력 (멘토 OOO)
+	- [활동 내용](https://....................................................)
+	- [Repository](https://....................................................)
 
-11. Apache Zeppelin & Project Johanna (멘토 윤제상)
-	- [활동 내용](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/11_Apache_Zeppelin_Project_Johanna/README.md)
-	- [Repository: Zeppelin](https://github.com/kosslab-kr/zeppelin)
-	- [Repository: Johanna](https://github.com/addnull/johanna)
+11. 내용입력 (멘토 OOO)
+	- [활동 내용](https://....................................................)
+	- [Repository](https://....................................................)
 
-* 프로젝트에 대한 자세한 내용은 [홈페이지](https://kosshackathon.kr/project)에서 확인
-* 일일 결과보고서 양식은 [리포트 템플릿](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/report_template.md) 참조
+* 프로젝트에 대한 자세한 내용은 [홈페이지](https://....................................................)에서 확인
+* 일일 결과보고서 양식은 [리포트 템플릿](https://....................................................) 참조
 
 ### 시상
 * 개인별 시상
-	- 아이디어 뱅크 : 해카톤이 종료될 때까지 구현된 아이디어 중 많은 득표를 받은 아이디어를 제안한 인원
-	- 문법 경찰 : 프로젝트에서 잘못 사용된 용어를 많이 수정한 인원
-	- 에너자이저 : 다른 사람이 제출한 코드를 리뷰하는데 활발히 참여한 인원
-	- 로봇 공장 : 자동화 도구와 테스트 코드를  많이 작성한 인원
-	- 심미안 : 미려한 사용자 인터페이스를 만드는데 기여한 인원
-	- 코딩머신 : 해카톤 기간 동안 많은 기능을 우수한 품질의 코드로 구현해 낸 인원
+	- 내용입력 : 내용입력
+	- 내용입력 : 내용입력
+	- 내용입력 : 내용입력
+	- 내용입력 : 내용입력
+	- 내용입력 : 내용입력
+	- 내용입력 : 내용입력
 
 * 팀별 시상
 	- 정보통신산업진흥원장 상 (1팀)
