@@ -99,13 +99,19 @@
     </thead>
     <tbody>
     <tr>
-        <th align="center" rowspan="13">9/24 개막식</th>
-        <td align="center">13:30~14:00 (30m)</td>
+      <th align="center" rowspan="2">9/24~9/30 프로젝트 활동</th>
+      <td align="center"></td>
+      <td align="center">프로젝트 별 작업진행, 질의응답</td>
+      <td align="center">사무국</td>
+    </tr>	    
+    <tr>
+        <th align="center" rowspan="13">00/00 개막식</th>
+        <td align="center">00:00~00:00 (00m)</td>
         <td align="center">등록(SW개발자 또는 일반인)</td>
         <td> </td>
     </tr>
     <tr>
-      <td align="center">14:00~14:01 (1m)</td>
+      <td align="center">00:00~00:00 (0m)</td>
       <td align="center">개막식 개회 선언</td>
       <td align="center">사회자</td>
     </tr>
