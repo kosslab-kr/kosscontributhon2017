@@ -99,9 +99,9 @@
     </thead>
     <tbody>
     <tr>
-      <th align="center" rowspan="2">9/24~9/30 프로젝트 활동</th>
+      <th align="center" rowspan="2">00/00~00/00 참가자사전오리엔테이션</th>
       <td align="center"></td>
-      <td align="center">프로젝트 별 작업진행, 질의응답</td>
+      <td align="center">Github, 질의응답</td>
       <td align="center">사무국</td>
     </tr>	    
     <tr>
