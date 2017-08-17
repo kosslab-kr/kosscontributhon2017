@@ -105,64 +105,10 @@
       <td align="center">사무국</td>
     </tr>	    
     <tr>
-      <td align="center">00:00~00:00 (0m)</td>
-      <td align="center">개막식 개회 선언</td>
-      <td align="center">사회자</td>
-    </tr>
-    <tr>
       <td align="center">	14:01~14:06 (5m)</td>
       <td align="center">인사말</td>
       <td align="center">IPA</td>
-    </tr>
-    <tr>
-      <td align="center">	14:06~14:011 (5m)</td>
-      <td align="center">축사</td>
-      <td align="center">NIPA</td>
-    </tr>
-    <tr>
-      <td align="center">	14:11~14:31 (20m)</td>
-      <td align="center">강연(공개SW란 무엇인가)</td>
-      <td align="center">오픈소스 프론티어 1기 신정규</td>
-    </tr>
-    <tr>
-      <td align="center">	14:31~15:31 (1H)</td>
-      <td align="center">강연(Github 사용법, 공개SW 개발과정)</td>
-      <td align="center">오픈소스 프론티어 3기 송태웅</td>
-    </tr>
-    <tr>
-      <td align="center">	15:31~15:40 (9m)</td>
-      <td align="center">Break</td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center">	15:40~16:00 (20m)</td>
-      <td align="center">멘토 및 프로젝트 소개(11개)</td>
-      <td align="center">사회자</td>
-    </tr>
-    <tr>
-      <td align="center">	16:00~16:10 (10m)</td>
-      <td align="center">운영방법 안내</td>
-      <td align="center">사회자</td>
-    </tr>
-    <tr>
-      <td align="center" rowspan="2">	16:10~19:10 (3H)</td>
-      <td align="center">팀별 진행방향 논의</td>
-      <td align="center">멘토 & 팀장</td>
-    </tr>
-    <tr>
-      <td align="center">선정된 주제에 대한 개발방향</td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center">19:10</td>
-      <td align="center">공식행사 종료</td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center">19:10~21:10 (2H)</td>
-      <td align="center">팀별 운영</td>
-      <td align="center"></td>
-    </tr>
+	    
     <tr>
       <th align="center" rowspan="2">9/24~9/30 프로젝트 활동</th>
       <td align="center"></td>
