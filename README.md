@@ -85,7 +85,6 @@
             <th align="center">시간</th>
             <th align="center">주요내용</th>
             <th align="center">비고</th>
-            <TH COLSPAN="3"  BGCOLOR="Lightgreen">
         </tr>
     </thead>
     <tbody>
