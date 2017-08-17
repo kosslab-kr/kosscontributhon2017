@@ -81,7 +81,7 @@
 <table>
     <thead>
         <tr>
-            <th align="center">구분</th>
+            <th align="center"><H1>구분</H1></th>
             <th align="center">시간</th>
             <th align="center">주요내용</th>
             <th align="center">비고</th>
