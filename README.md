@@ -99,9 +99,9 @@
     </thead>
     <tbody>
      <tr>
-        <th align="center" rowspan="3">00/00 개막식</th>
-        <td align="center">00:00~00:00 (30m)</td>
-        <td align="center">등록(SW개발자 또는 일반인)</td>
+        <th align="center" rowspan="3">00/00 참가자 사전 오리엔테이션</th>
+        <td align="center">00:00~00:00 (00m)</td>
+        <td align="center">Github 교육 1회차 운영(튜토리얼)</td>
         <td> </td>
     </tr>
     
