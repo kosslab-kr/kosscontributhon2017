@@ -99,13 +99,13 @@
     </thead>
     <tbody>
      <tr>
-        <th align="center" rowspan="3">00/00 참가자 사전 오리엔테이션</th>
+        <th align="center" rowspan="1">00/00 참가자 사전 오리엔테이션</th>
         <td align="center">00:00~00:00 (00m)</td>
         <td align="center">Github 교육 1회차 운영(튜토리얼)</td>
         <td> </td>
     </tr>
     <tr>
-      <th align="center" rowspan="2">9/24~9/30 프로젝트 활동</th>
+      <th align="center" rowspan="10">9/24~9/30 프로젝트 활동</th>
       <td align="center"></td>
       <td align="center">프로젝트 별 작업진행, 질의응답</td>
       <td align="center">사무국</td>
