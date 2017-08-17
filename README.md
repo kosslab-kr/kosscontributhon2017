@@ -105,6 +105,7 @@
         <td> </td>
     </tr>
     <tr>
+      <th align="center" rowspan="3">00/00 참가자 사전 오리엔테이션</th>	    
       <td align="center">14:00~14:01 (1m)</td>
       <td align="center">개막식 개회 선언</td>
       <td align="center">사회자</td>
