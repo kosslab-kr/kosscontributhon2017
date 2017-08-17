@@ -99,8 +99,7 @@
     </tr>
     <tr>
       <td align="center"> oo:oo~oo:oo (om)</td>
-      <td align="center">개막식 개회 선언
-	                 해카톤 일정 및 운영 방법 안내</td>
+      <td align="center">개막식 개회 선언,    해카톤 일정 및 운영 방법 안내</td>
       <td align="center">사회자</td>
     </tr>
     <tr>
