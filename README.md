@@ -95,8 +95,15 @@
         <th align="center" rowspan="13">oo/oo 개막식</th>
         <td align="center">oo:oo~oo:oo (oom)</td>
         <td align="center">프로젝트 참가자 확인 및 좌석 안내</td>
-        <td> </td>
+        <td> </td>	   
     </tr>
+	    
+    <tr>
+      <th align="center" rowspan="6"> oo/oo~o/oo 프로젝트 활동</th>
+      <td align="center">멘토 중심의 프로젝트 운영 및 멘토링 진행</td>
+      <td align="center"></td>
+    </tr>    
+    
     <tr>
       <td align="center" rowspan="2"> oo:oo~oo:oo (oom)</td>
       <td align="center">개막식 개회 선언</td>
@@ -121,11 +128,7 @@
       <td align="center">팀별 진행방향 논의 및 역할 분배(모임공간 지원)</td>
       <td align="center">멘토</td>
     </tr>
-    <tr>
-      <th align="center" rowspan="6"> oo/oo~o/oo 프로젝트 활동</th>
-      <td align="center">멘토 중심의 프로젝트 운영 및 멘토링 진행</td>
-      <td align="center"></td>
-    </tr>    
+
     <tr>
       <td align="center">
       <td align="center">Github 해카톤 프로젝트 일일 활동 내용 기록</td>
