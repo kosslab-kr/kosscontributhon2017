@@ -141,6 +141,21 @@
       <td align="center">00:00~00:00 (00m)</td>
       <td align="center">프로젝트 참가자 확인 및 좌석 안내</td>
       <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">	00:00~00:00 (00m)</td>
+      <td align="center">팀별 수행 결과 발표(프로젝트 리더가 진행)<BR>심사위원의 발표평가 진행</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">	00:00~00:00 (00m)</td>
+      <td align="center">팀별 참가자 후기 발표<BR>심사위원 평가결과 심의 진행</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">	00:00~00:00 (00m)</td>
+      <td align="center">수상팀 발표 및 시상<BR>단체사진 촬영</td>
+      <td align="center"></td>
     </tr>	      
 	      
 	      
