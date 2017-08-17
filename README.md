@@ -105,7 +105,7 @@
         <td> </td>
     </tr>
     <tr>
-      <th align="center" rowspan="13">00/00<BR>개막식</th>
+      <th align="center" rowspan="10">00/00<BR>개막식</th>
       <td align="center">00:00~00:00 (00m)</td>
       <td align="center">프로젝트 참가자 확인 및 좌석 안내</td>
       <td align="center"></td>
@@ -130,7 +130,12 @@
       <td align="center">팀별 진행 방향 논의 및 역할 분배(모임공간 지원)</td>
       <td align="center"></td>
     </tr>	    
-
+    <tr>
+      <th align="center" rowspan="3">00/00<BR>프로젝트 운영</th>
+      <td align="center">00:00~00:00 (00m)</td>
+      <td align="center">프로젝트 참가자 확인 및 좌석 안내</td>
+      <td align="center"></td>
+    </tr>
 </table>
 
 ### 팀별 활동 가이드라인
