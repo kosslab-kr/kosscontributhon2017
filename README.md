@@ -99,16 +99,11 @@
     </thead>
     <tbody>
     <tr>
-      <th align="center" rowspan="2">00/00~00/00 참가자사전오리엔테이션</th>
+      <th align="center" rowspan="3">00/00~00/00 참가자사전오리엔테이션</th>
+      <td align="center"></td>
       <td align="center">Github, 질의응답</td>
       <td align="center">사무국</td>
     </tr>	    
-    <tr>
-        <th align="center" rowspan="13">00/00 개막식</th>
-        <td align="center">00:00~00:00 (00m)</td>
-        <td align="center">등록(SW개발자 또는 일반인)</td>
-        <td> </td>
-    </tr>
     <tr>
       <td align="center">00:00~00:00 (0m)</td>
       <td align="center">개막식 개회 선언</td>
