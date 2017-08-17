@@ -128,7 +128,7 @@
       <td align="center"></td>
     </tr>
     <tr>
-      <th align="center" colspan="4">활동 마감 (00/00, 00:00)</th>
+      <th align="center" colspan="1">활동 마감 (00/00, 00:00)</th>
     </tr>	      
 	      
     <tr>
