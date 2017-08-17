@@ -105,14 +105,14 @@
         <td> </td>
     </tr>
     <tr>
-      <th align="center" rowspan="10">00/00 개막식</th>
+      <th align="center" rowspan="13">00/00 개막식</th>
       <td align="center">00:00~00:00 (00m)</td>
       <td align="center">프로젝트 참가자 확인 및 좌석 안내</td>
       <td align="center">사무국</td>
     </tr>
     <tr>
       <td align="center">	00:00~00:00 (00m)</td>
-      <td align="width">개막식 개회선언
+      <td align="center">개막식 개회선언
 	                 해커톤 일정 및 운영 방법 안내</td>
       <td align="center"></td>
     </tr>	    
