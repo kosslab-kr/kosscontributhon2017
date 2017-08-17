@@ -98,18 +98,17 @@
         </tr>
     </thead>
     <tbody>
-    <tr>
-        <th align="center" rowspan="3">00/00 참가자 사전 오리엔테이션</th>
-        <td align="center">00:00~00:00 (00m)</td>
-        <td align="center">Github 교육1회차 운영(튜토리얼)</td>
-	<td align="center">사회자</td>
+     <tr>
+        <th align="center" rowspan="5">9/24 개막식</th>
+        <td align="center">13:30~14:00 (30m)</td>
+        <td align="center">등록(SW개발자 또는 일반인)</td>
+        <td> </td>
     </tr>
-  <tr>
-      <td align="center" rowspan="2">9/24~9/30 프로젝트 활동</th>
-      <td align="center"></td>
-      <td align="center">프로젝트 별 작업진행, 질의응답</td>
-      <td align="center">사무국</td>
-   </tr>
+    <tr>
+      <td align="center">14:00~14:01 (1m)</td>
+      <td align="center">개막식 개회 선언</td>
+      <td align="center">사회자</td>
+    </tr>
 
 </table>
 
