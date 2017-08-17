@@ -110,6 +110,11 @@
       <td align="center">프로젝트 참가자 확인 및 좌석 안내</td>
       <td align="center">사무국</td>
     </tr>
+    <tr>
+      <td align="center">	00:00~00:00 (00m)</td>
+      <td align="center">개막식 개회선언</td>
+      <td align="center"></td>
+    </tr>	    
     
 
 </table>
