@@ -114,8 +114,22 @@
       <td align="center">	00:00~00:00 (00m)</td>
       <td align="center">개막식 개회선언<BR>해커톤 일정 및 운영 방법 안내</td>
       <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">	00:00~00:00 (00m)</td>
+      <td align="center">Github 교육 2회차 운영(팀 프로젝트 운영 방법)</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">	00:00~00:00 (00m)</td>
+      <td align="center">기조연설</td>
+      <td align="center"></td>
+    </tr>		    
+    <tr>
+      <td align="center">	00:00~00:00 (00m)</td>
+      <td align="center">팀별 진행 방향 논의 및 역할 분배(모임공간 지원)</td>
+      <td align="center"></td>
     </tr>	    
-    
 
 </table>
 
