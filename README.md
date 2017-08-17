@@ -137,7 +137,7 @@
       <td align="center"></td>
     </tr>
     <tr>
-      <th align="center" rowspan="8">00/00<BR>결과발표</th>
+      <th align="center" rowspan="10">00/00<BR>결과발표</th>
       <td align="center">00:00~00:00 (00m)</td>
       <td align="center">프로젝트 참가자 확인 및 좌석 안내</td>
       <td align="center"></td>
