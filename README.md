@@ -112,7 +112,7 @@
     </tr>
     <tr>
       <td align="center">	00:00~00:00 (00m)</td>
-      <td align="center">개막식 개회선언
+      <td align="width">개막식 개회선언
 	                 해커톤 일정 및 운영 방법 안내</td>
       <td align="center"></td>
     </tr>	    
