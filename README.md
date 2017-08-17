@@ -102,6 +102,7 @@
         <th align="center" rowspan="3">00/00 참가자 사전 오리엔테이션</th>
         <td align="center">00:00~00:00 (00m)</td>
         <td align="center">Github 교육1회차 운영(튜토리얼)</td>
+	<td align="center">사회자</td>
         <td> </td>
     </tr>
 
