@@ -5,8 +5,8 @@
 	2017 KOSS Contributhon 개최!
 
 Contributhon?
-오픈소스 기여(Contribute)와 마라톤(Marathon)의 합성어로, 일정기간 내에 오픈소스 프로젝트를 선택하여
-하나 이상의 컨트리뷰션(Contribution)을 하는 프로그램 
+	오픈소스 기여(Contribute)와 마라톤(Marathon)의 합성어로, 일정기간 내에 오픈소스 프로젝트를 선택하여
+	하나 이상의 컨트리뷰션(Contribution)을 하는 프로그램 
 
 ### 행사 일정
 * 2017년 09월 27일(수) ~ 11월 23일(화)
