@@ -63,7 +63,7 @@ Contributhon?
 	- [Repository](https://....................................................)
 
 * 프로젝트에 대한 자세한 내용은 [홈페이지](https://kosshackathon.kr/project)에서 확인
-* 일일 결과보고서 양식은 [리포트 템플릿](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/report_template.md) 참조
+*  결과보고서 양식은 [리포트 템플릿](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/report_template.md) 참조
 
 ### 시상
 
@@ -114,7 +114,7 @@ Contributhon?
       <td align="center"></td>
     </tr>
     <tr>
-      <th align="center" colspan="4">활동 마감 (11/17, 19:00)</th>
+      <th align="center" colspan="4">활동 마감 (11/17, 17:00)</th>
     </tr>	      	      
     <tr>
       <th align="center" rowspan="5">11/21<BR>시상식</th>
