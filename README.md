@@ -104,13 +104,13 @@ Contributhon?
     </tr>
     <tr>
       <td align="center">19:50~20:20 (30m)</td>
-      <td align="center">멘토 및 프로젝트 소개<BR>멘토(10명)</td>
-      <td align="center"></td>
+      <td align="center">멘토 및 프로젝트 소개</td>
+      <td align="center">멘토(10명)</td>
     </tr>
     <tr>
       <td align="center">20:20~21:00 (40m)</td>
-      <td align="center">오픈소스 개발방식의 이해<BR>글로벌 오픈프론티어 송태웅</td>
-      <td align="center"></td>
+      <td align="center">오픈소스 개발방식의 이해</td>
+      <td align="center">글로벌 오픈프론티어 송태웅</td>
     </tr>	   
     <tr>
       <th align="center" rowspan="1">09/28~11/17<BR>프로젝트 운영</th>
