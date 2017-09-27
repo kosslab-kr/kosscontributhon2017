@@ -89,7 +89,7 @@ Contributhon?
     <tr>
       <td align="center">19:30~19:35 (5m)</td>
       <td align="center">환영사</td>
-      <td align="center">정보통신산업진흥원<BR>김태열 본부장</td>      
+      <td align="center">NIPA 소프트웨어산업진흥본부<BR>김태열 본부장</td>      
     </tr>
     <tr>
       <td align="center">19:35~19:40 (5m)</td>
@@ -112,8 +112,7 @@ Contributhon?
       <td align="center">글로벌 오픈프론티어<BR>송태웅</td>
     </tr>	   
     <tr>
-      <th align="center" rowspan="2">09/28~11/17 프로젝트 운영</th>
-      <td align="center"></td>
+      <th align="center" rowspan="1">09/28~11/17 프로젝트 운영</th>
       <td align="center">중간활동내역 보고서 제출(프로젝트 멘토가 작성·제출)<BR>멘토 중심의 프로젝트 운영 및 멘토링 진행<BR>공개SW개발자센터 등 모임공간 지원을 통한 오프라인 활동<BR>컨트리뷰톤 종료(11/17 오후 5시)</td>
       <td align="center"></td>
     </tr>
