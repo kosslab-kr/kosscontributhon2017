@@ -82,7 +82,7 @@ Contributhon?
     </thead>
     <tbody>
     <tr>
-      <th align="center" rowspan="7">09/28<BR>개막식</th>
+      <th align="center" rowspan="6">09/28<BR>개막식</th>
       <td align="center">19:00~19:30 (30m)</td>
       <td align="center">프로젝트 참가자 확인 및 좌석 안내</td>
     </tr>
