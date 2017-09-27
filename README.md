@@ -87,24 +87,24 @@ Contributhon?
       <td align="center">프로젝트 참가자 확인 및 좌석 안내</td>
     </tr>
     <tr>
-      <td align="center">19:30~19:35 (5m)</td>
+      <td align="center">19:30~19:40 (10m)</td>
+      <td align="center">개회 및 운영방법 안내</td>
+      <td align="center"></td>      
+    </tr>
+    <tr>
+      <td align="center">19:40~19:45 (5m)</td>
       <td align="center">환영사</td>
       <td align="center">NIPA 소프트웨어산업진흥본부<BR>김태열 본부장</td>      
     </tr>
     <tr>
-      <td align="center">19:35~19:40 (5m)</td>
-      <td align="center">단체사진 촬영</td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center">19:40~19:50 (10m)</td>
-      <td align="center">컨트리뷰톤 운영 방법 안내</td>
-      <td align="center"></td>
-    </tr>
-    <tr>
-      <td align="center">19:50~20:20 (30m)</td>
+      <td align="center">19:45~20:15 (30m)</td>
       <td align="center">멘토 및 프로젝트 소개</td>
       <td align="center">멘토(10명)</td>
+    </tr>
+    <tr>
+      <td align="center">20:15~20:20 (5m)</td>
+      <td align="center">단체사진 촬영</td>
+      <td align="center"></td>
     </tr>
     <tr>
       <td align="center">20:20~21:00 (40m)</td>
