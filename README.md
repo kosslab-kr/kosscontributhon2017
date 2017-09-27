@@ -91,26 +91,31 @@ Contributhon?
       <td align="center">19:30~19:35 (5m)</td>
       <td align="center">환영사</td>
       <td align="center">정보통신산업진흥원<BR>김태열 본부장</td>
+      <td align="center"></td>	      
     </tr>
     <tr>
       <td align="center">19:35~19:40 (5m)</td>
       <td align="center">단체사진 촬영</td>
       <td align="center"></td>
+      <td align="center"></td>
     </tr>
     <tr>
       <td align="center">19:40~19:50 (10m)</td>
       <td align="center">컨트리뷰톤 운영 방법 안내</td>
       <td align="center"></td>
+      <td align="center"></td>
     </tr>
     <tr>
       <td align="center">19:50~20:20 (30m)</td>
       <td align="center">멘토 및 프로젝트 소개</td>
       <td align="center">멘토(10명)</td>
+      <td align="center"></td>
     </tr>
     <tr>
       <td align="center">20:20~21:00 (40m)</td>
       <td align="center">오픈소스 개발방식의 이해</td>
       <td align="center">글로벌 오픈프론티어<BR>송태웅</td>
+      <td align="center"></td>
     </tr>	   
     <tr>
       <th align="center" rowspan="1">09/28~11/17<BR>프로젝트 운영</th>
