@@ -39,8 +39,8 @@ Contributhon?
 	- [Repository](https://....................................................)
 
 5. CUBRID Manager (멘토 민준)
-	- [활동 내용](https://....................................................)
-	- [Repository](https://....................................................)
+	- [활동 내용](activities/CUBRID-Manager.md)
+	- [Repository](https://github.com/kosslab-kr/cubrid-manager)
 
 6. Google Chrome으로 시작하는 오픈소스 입문 (멘토 박열)
 	- [활동 내용](https://....................................................)
