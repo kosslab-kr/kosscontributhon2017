@@ -60,8 +60,8 @@ Contributhon?
 	- [Repository](https://....................................................)
 
 10. Ring (멘토 정윤원)
-	- [활동 내용](https://....................................................)
-	- [Repository](https://....................................................)
+	- [활동 내용](/activities/absolute.md)
+	- [Repository](https://github.com/youknowone/ring/)
 
 * 프로젝트에 대한 자세한 내용은 [홈페이지](https://kosshackathon.kr/project)에서 확인
 *  결과보고서 양식은 [리포트 템플릿](https://github.com/kosslab-kr/kosshack2016/blob/master/daily/report_template.md) 참조
