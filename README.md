@@ -26,9 +26,10 @@ Contributhon?
 	- [활동 내용](https://....................................................)
 	- [Repository](https://....................................................)
 
-2. Absolute (멘토 방진호)
-	- [활동 내용](https://....................................................)
-	- [Repository](https://....................................................)
+2. Absolute & Bacardi (멘토 방진호)
+	- [활동 내용](/activities/absolute.md)
+	- [Repository for Absolute](https://github.com/lunchclass/absolute)
+	- [Repository for Bacardi](https://github.com/lunchclass/bacardi)
 
 3. Ankus Crawler (멘토 장동훈)
 	- [활동 내용](https://....................................................)
