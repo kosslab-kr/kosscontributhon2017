@@ -1,5 +1,13 @@
 # Absolute & Bacardi Contributon 활동내역
 
+## 프로젝트 소개
+- **Absolute**
+  - Absolute is a web-based O2O(Online to Offline) platform like Siren-Order for Starbucks. We are focused on creating the platform that is portable, cheaper, easier, decentralized and appless.
+  - https://www.slideshare.net/deview/123-80843907
+- **Bacardi**
+  - Bacardi project is an effort to provide multi-language binding for Node.js native layer.
+  - https://www.slideshare.net/deview/131chromium-binging-nodejs
+
 ## 참여자 담당 역할
 - **Absolute**
   - Cache API: @sapzape(김종헌)
@@ -32,6 +40,7 @@
   - Add badges in README.md [[absolute#497]](https://github.com/lunchclass/absolute/pull/497)
 
 - **@haeungun (김하은)**
+  - Fixed worng url [[absolute#530]](https://github.com/lunchclass/absolute/pull/530)
   - Implement isRegistered for Push API [[absolute#525]](https://github.com/lunchclass/absolute/pull/525)
   - Implement unregister for Push API [[absolute#510]](https://github.com/lunchclass/absolute/pull/510)
   - Fixed some errors of indexeddb [[absolute#519]](https://github.com/lunchclass/absolute/pull/519)
@@ -60,6 +69,7 @@
   - Fix a typo in README.md [[absolute#450]](https://github.com/lunchclass/absolute/pull/450)
 
 - **@usefulhyun (유용현)**
+  - Add float type and test cases for float and double type [[bacardi#187]](https://github.com/lunchclass/bacardi/pull/187)
   - Add test for long and long long types [[bacardi#181]](https://github.com/lunchclass/bacardi/pull/181)
   - Add unsigned long long type [[bacardi#179]](https://github.com/lunchclass/bacardi/pull/179)
   - Add unsigned long type [[bacardi#160]](https://github.com/lunchclass/bacardi/pull/160)
@@ -73,6 +83,7 @@
   - Fix Typescript Lint error basic. [[absolute#478]](https://github.com/lunchclass/absolute/pull/478)
   - Add callback for default task [[absolute#464]](https://github.com/lunchclass/absolute/pull/464)
   - Fix Absolute V2 first launch fail issue [[absolute#462]](https://github.com/lunchclass/absolute/pull/462)
+  - Add issue template [[bacardi#188]](https://github.com/lunchclass/bacardi/pull/188)
   - Separate test and format command in develop [[bacardi#157]](https://github.com/lunchclass/bacardi/pull/157)
   - Fix Minor typo issue [[bacardi#147]](https://github.com/lunchclass/bacardi/pull/147)
   - Fix repository url [[bacardi#133]](https://github.com/lunchclass/bacardi/pull/133)
